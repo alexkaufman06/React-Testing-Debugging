@@ -65,6 +65,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -118,6 +119,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-Native-tutorials/React-Native-Ecosystem-Workflow/560206-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -171,6 +173,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-Native-tutorials/From-React-React-Native/577371-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -224,6 +227,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -277,6 +281,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/JavaScript-tutorials/Migrating-TypeScript-2/585078-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -330,6 +335,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -383,6 +389,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-js-tutorials/Building-Web-Interface-React-js/495271-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -436,6 +443,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -489,6 +497,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-Native-tutorials/React-Native-Ecosystem-Workflow/560206-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -542,6 +551,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/React-Native-tutorials/From-React-React-Native/577371-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -595,6 +605,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
@@ -648,6 +659,7 @@ exports[`test App snapshot test 1`] = `
                 className="card-action">
                 <a
                   href="https://www.lynda.com/JavaScript-tutorials/Migrating-TypeScript-2/585078-2.html"
+                  rel="noopener noreferrer"
                   target="_blank">
                   Link to course
                 </a>
